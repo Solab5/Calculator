@@ -37,10 +37,10 @@ numberButtons.forEach(button => {
     });
 });
 
-// function appendNumber(number) {
-//     displayValue += number;
-// };
+function appendNumber(number) {
+    displayValue += number;
+};
 
-// function UpdateValue(){
-//     display.textContent = displayValue;
-// }
+function UpdateValue(){
+    display.textContent = displayValue;
+}
